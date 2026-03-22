@@ -1,4 +1,4 @@
-# tic-tac-toe
+# tictactoe-game-webapp
 
 🌸 [HTML-CSS-React] An interactive tic-tac-toe game with ReactJS
 
